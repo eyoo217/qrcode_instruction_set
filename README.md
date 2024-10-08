@@ -9,7 +9,7 @@
 
 ## Step 2: Create a new project!
 ### Lets open VSCode and you should see an option to open a folder
-[Screenshot 2024-10-08 151549](https://github.com/user-attachments/assets/ce3e369e-a041-417f-9084-9d1d397a45c5)
+![Screenshot 2024-10-08 151549](https://github.com/user-attachments/assets/ce3e369e-a041-417f-9084-9d1d397a45c5)
 ### Select open folder and you will be brought to your User directory.
 ### Inside your directory create a new folder and name it "qr_code".
 ![Screenshot 2024-10-08 151635](https://github.com/user-attachments/assets/67cd4bc1-5fcf-47fb-b422-21aa44ad22f4)
