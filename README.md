@@ -42,3 +42,11 @@
 ## Step 5: Create a new file
 ### Navigate to your explorer and right click, then create new file
 ### we will name this main.py
+![main](https://github.com/user-attachments/assets/ddb18edd-e574-4e8f-957e-9720671ceaf3)
+
+## Step 6: Import Packages
+### Inside of main write:
+#### import qrcode
+#### import qrcode.image.svg as qr
+![Screenshot 2024-10-09 235234](https://github.com/user-attachments/assets/7c04abf6-7a8c-405a-abe9-f99e5a243087)
+
