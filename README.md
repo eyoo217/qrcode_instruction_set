@@ -37,6 +37,7 @@
 #### Now that our environment is set up, lets install qrcode.
 #### To do this we will run pip install qrcode
 ![Screenshot 2024-10-08 153600](https://github.com/user-attachments/assets/6173de78-20e0-476d-996e-e70326bdb7e6)
+#### NOTE: If you run into errors with module already existing from a previous attempt, try restarting your IDE.
 #### Once thats installed we can now start writing our code.
 
 ## Step 5: Create a new file
