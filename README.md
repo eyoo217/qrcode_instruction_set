@@ -46,7 +46,37 @@
 
 ## Step 6: Import Packages
 ### Inside of main write:
-#### import qrcode
-#### import qrcode.image.svg as qr
 ![Screenshot 2024-10-09 235234](https://github.com/user-attachments/assets/7c04abf6-7a8c-405a-abe9-f99e5a243087)
+### This is importing qrcode library into our program.
 
+## Step 7: Take user input
+### Next write:
+![Screenshot 2024-10-09 235646](https://github.com/user-attachments/assets/a4aaece2-3b2b-425d-807d-25339b4f4bd5)
+### This takes user input and saves the link for our qrcsode to direct to.
+
+## Step 8: Make QRCode structure
+### Next write:
+![Screenshot 2024-10-09 235750](https://github.com/user-attachments/assets/6fa55c6a-8026-4907-95c4-150ae9714c4c)
+### This creates a qrcode structure by setting the size parameters.
+
+## Step 9: Add data
+### Next write:
+![Screenshot 2024-10-10 000120](https://github.com/user-attachments/assets/a0cee1ab-00e1-4e5a-8467-62da27a21ce4)
+### This adds the data from the link we took and fits it.
+
+## Step 10: Import the qr code as an image and save it.
+### Next write:
+![Screenshot 2024-10-10 000254](https://github.com/user-attachments/assets/092299cf-93a0-45a2-80eb-cd92fe5ab1db)
+### This makes the qr code image and saves it as qrcode.jpg
+
+## Step 11: Use the qrcode we made!
+### Now when we run it in vscode, we should get a question in the terminal for the link.
+### NOTE: If you run into the error "No module named 'PIL', run pip install qrcode[PIL] in the terminal
+###       This just reinstalls the pillow package which is needed for our program
+### If ran successfully we should see this:
+![Screenshot 2024-10-10 000945](https://github.com/user-attachments/assets/bd21dc63-fc86-4ddc-9b51-28f1f7513dae)
+### Enter a link and hit enter, then we should see a qrcode.jpg appear in our explorer
+![Screenshot 2024-10-10 001056](https://github.com/user-attachments/assets/3d948536-424f-424c-9f08-c1ed9d0d9898)
+![Screenshot 2024-10-10 001116](https://github.com/user-attachments/assets/f244fa28-2106-4bf3-a79c-74a1b889c6f0)
+### Now when we use a camera app or qrcode scanner, we should be directed to the link we inputted in our terminal!
+### And we have a working qr code generator to make qr codes for any link/url with our own program!
